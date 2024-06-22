@@ -1,0 +1,37 @@
+@import url(https://db.onlinewebfonts.com/c/5ebc67ab9ab9e86517c65dd6ac7c85aa?family=Dauphin);
+
+
+body{
+    /* padding: 50px; */
+    margin: 0;
+    box-sizing: border-box;
+    /* background: wheat; */
+}
+p {
+    /* font-size: 40px; */
+    background-color: aquamarine;
+    padding: 40px;
+    
+}
+
+.container {
+    /* padding-left: 10px;
+    padding-right: 50px;
+    padding-top: 60px;
+    padding-bottom: 50px; */
+
+    /* padding: 10px 0px 3px 4px; */
+    padding: 0px 12px;
+
+    /* padding: 50px; */
+}
+section{
+    width: 100%;
+    background-color: blueviolet;
+}
+
+.footer{
+    color: white;
+    /* background-color: black; */
+    padding: 20px;
+}
